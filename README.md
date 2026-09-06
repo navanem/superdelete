@@ -38,7 +38,7 @@ SuperDelete ships in **two forms that share one deletion engine**:
 ### Download
 
 Grab the latest pre-built, **self-contained** executables from the
-[**Releases**](https://github.com/navanem/navanem_SuperDelete/releases) page — no .NET installation
+[**Releases**](https://github.com/navanem/superdelete/releases) page — no .NET installation
 required, just download and run:
 
 | File | What it is |
